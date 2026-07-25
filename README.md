@@ -1,6 +1,6 @@
 # Agera PVP Stats
 
-Аналог Plancke для AgeraPvP Club.
+Аналог Plancke для AgeraPvP Club. (с открытым исходным кодом! ура)
 
 ## Функции
 
