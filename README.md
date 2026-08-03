@@ -4,6 +4,12 @@
 
 90% кода написал я
 
+## Установка
+
+1. Нужен PHP сервер (желательно PHP 8).
+2. `git clone https://github.com/stysan/agerapvpstats`
+3. В lib/config.php поставь токен, полученный в команде `/api` на сервере agerapvp.club 
+
 ## Функции
 
 - [x] Все API со стороны сервера
